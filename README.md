@@ -1,6 +1,4 @@
-<img src="https://camo.githubusercontent.com/e2d6f3e3129294f666bbb0156a695bf71168a6917f87775349eabe4e6bde972e/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578655746344d6d746c6447396965585a32596d74694e6d3434625445325a47646c4f575a3365475a7a6432353663326c726132393465435a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f4363774c4156313163414c68334f75454a352f67697068792e676966" alt="Masterhead" style=" width: 900px; height: 300px; margin-left:20px;"/>
-<h1 align="center">Hi 👋, I'm Aman Singh</h1>
-<h3 align="center">A tech enthusiast from Delhi</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=E9E211&background=C2FF4800&multiline=true&width=850&height=127&lines=Hi!!%F0%9F%91%8B%F0%9F%8F%BB%2C+I+am+Aman+Singh;A+tech+enthusiast+from+Delhi%F0%9F%98%8A" alt="Typing SVG" /></a>
 <img style="width: 380px; height: 250px;" align ="right" alt="coding"  src="https://cdn.dribbble.com/users/239755/screenshots/3019824/dave_coding_dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thxaman&label=Profile%20views&color=0e75b6&style=flat" alt="thxaman" /> </p>
